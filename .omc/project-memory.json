@@ -1,0 +1,68 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775135113869,
+  "projectRoot": "E:\\code_space\\python_space\\python-learn-start",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "python深度学习": {
+      "path": "python深度学习",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775135113857,
+      "keyFiles": []
+    },
+    "数据分析": {
+      "path": "数据分析",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1775135113858,
+      "keyFiles": []
+    },
+    "算法练习": {
+      "path": "算法练习",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1775135113858,
+      "keyFiles": [
+        "单练链表.py",
+        "双链链表.py",
+        "环形数组.py",
+        "蓝桥杯练习.py"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "python深度学习\\第二章-神经网络的数学基础\\填空版-本地实现图片分类任务.py",
+      "accessCount": 11,
+      "lastAccessed": 1775137201505,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
