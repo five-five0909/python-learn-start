@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1775135113869,
+  "lastScanned": 1775225290141,
   "projectRoot": "E:\\code_space\\python_space\\python-learn-start",
   "techStack": {
     "languages": [],
@@ -25,7 +25,10 @@
     "isMonorepo": false,
     "workspaces": [],
     "mainDirectories": [],
-    "gitBranches": null
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
   },
   "customNotes": [],
   "directoryMap": {
@@ -33,21 +36,21 @@
       "path": "python深度学习",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1775135113857,
+      "lastAccessed": 1775225290130,
       "keyFiles": []
     },
     "数据分析": {
       "path": "数据分析",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1775135113858,
+      "lastAccessed": 1775225290131,
       "keyFiles": []
     },
     "算法练习": {
       "path": "算法练习",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1775135113858,
+      "lastAccessed": 1775225290131,
       "keyFiles": [
         "单练链表.py",
         "双链链表.py",
@@ -58,9 +61,45 @@
   },
   "hotPaths": [
     {
-      "path": "python深度学习\\第二章-神经网络的数学基础\\填空版-本地实现图片分类任务.py",
-      "accessCount": 11,
-      "lastAccessed": 1775137201505,
+      "path": "python深度学习\\第三章-Keras和TensorFlow入门\\keras_核心API_全解.ipynb",
+      "accessCount": 8,
+      "lastAccessed": 1775289124730,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\IMDB影评二分类.ipynb",
+      "accessCount": 2,
+      "lastAccessed": 1775273550632,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\第三章-Keras和TensorFlow入门\\TensorFlow入门_线性分类器_逐行拆解.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1775231145876,
+      "type": "file"
+    },
+    {
+      "path": "fix_nb.py",
+      "accessCount": 1,
+      "lastAccessed": 1775273486412,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\Reuters新闻多分类.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1775274084614,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\Boston房价回归.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1775278266955,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\IMDB二分类_早停与模型保存.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1775312635755,
       "type": "file"
     }
   ],
