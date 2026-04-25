@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1775225290141,
+  "lastScanned": 1776443109750,
   "projectRoot": "E:\\code_space\\python_space\\python-learn-start",
   "techStack": {
     "languages": [],
@@ -36,21 +36,21 @@
       "path": "python深度学习",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1775225290130,
+      "lastAccessed": 1776443109731,
       "keyFiles": []
     },
     "数据分析": {
       "path": "数据分析",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1775225290131,
+      "lastAccessed": 1776443109732,
       "keyFiles": []
     },
     "算法练习": {
       "path": "算法练习",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1775225290131,
+      "lastAccessed": 1776443109732,
       "keyFiles": [
         "单练链表.py",
         "双链链表.py",
@@ -61,45 +61,63 @@
   },
   "hotPaths": [
     {
-      "path": "python深度学习\\第三章-Keras和TensorFlow入门\\keras_核心API_全解.ipynb",
-      "accessCount": 8,
-      "lastAccessed": 1775289124730,
-      "type": "file"
+      "path": "",
+      "accessCount": 4,
+      "lastAccessed": 1776443162514,
+      "type": "directory"
     },
     {
-      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\IMDB影评二分类.ipynb",
-      "accessCount": 2,
-      "lastAccessed": 1775273550632,
-      "type": "file"
-    },
-    {
-      "path": "python深度学习\\第三章-Keras和TensorFlow入门\\TensorFlow入门_线性分类器_逐行拆解.ipynb",
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\requirements.txt",
       "accessCount": 1,
-      "lastAccessed": 1775231145876,
+      "lastAccessed": 1776443254018,
       "type": "file"
     },
     {
-      "path": "fix_nb.py",
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\utils.py",
       "accessCount": 1,
-      "lastAccessed": 1775273486412,
+      "lastAccessed": 1776443254956,
       "type": "file"
     },
     {
-      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\Reuters新闻多分类.ipynb",
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\download_data.py",
       "accessCount": 1,
-      "lastAccessed": 1775274084614,
+      "lastAccessed": 1776443255899,
       "type": "file"
     },
     {
-      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\Boston房价回归.ipynb",
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.2_train_from_scratch.py",
       "accessCount": 1,
-      "lastAccessed": 1775278266955,
+      "lastAccessed": 1776443365325,
       "type": "file"
     },
     {
-      "path": "python深度学习\\第四章-神经网络入门：分类与回归\\IMDB二分类_早停与模型保存.ipynb",
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.3_pretrained_feature_extraction.py",
       "accessCount": 1,
-      "lastAccessed": 1775312635755,
+      "lastAccessed": 1776443366239,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.3_finetune.py",
+      "accessCount": 1,
+      "lastAccessed": 1776443367028,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.4_visualize_intermediate_activations.py",
+      "accessCount": 1,
+      "lastAccessed": 1776443470536,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.4_visualize_filters.py",
+      "accessCount": 1,
+      "lastAccessed": 1776443471505,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.4_grad_cam.py",
+      "accessCount": 1,
+      "lastAccessed": 1776443472367,
       "type": "file"
     }
   ],
