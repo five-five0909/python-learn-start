@@ -26,6 +26,7 @@ test_data = datasets.FashionMNIST(
 )
 
 # DataLoader 负责将数据集分批次、打乱等，方便训练时按 batch 取数据
+# 一批训练64个数据
 batch_size = 64
 # shuffle=True 会在每个 epoch 开始时打乱训练数据，防止模型记住顺序
 train_dataloader = DataLoader(training_data, batch_size=batch_size, shuffle=True)
@@ -80,7 +81,10 @@ optimizer = torch.optim.SGD(model.parameters(), lr=1e-3)
 def train(dataloader, model, loss_fn, optimizer):
     size = len(dataloader.dataset)  # 数据集的总样本数
     model.train()  # 将模型设置为训练模式（会启用 dropout、batch norm 的训练行为等）
+    # enumerate 迭代的时候 直接输出：图片的一维Tensor数据以及标签
     for batch, (X, y) in enumerate(dataloader):
+        # X的维度：(64,1,28,28) 也就是一批次的灰度图片的数据
+        # Y的维度：(64,) 也就是一维数组，就是对应这个批次64哥图片的标签值
         X, y = X.to(device), y.to(device)  # 把数据和标签移到 GPU/CPU
 
         # 前向传播：计算预测值
