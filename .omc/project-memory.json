@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1776443109750,
+  "lastScanned": 1778047753870,
   "projectRoot": "E:\\code_space\\python_space\\python-learn-start",
   "techStack": {
     "languages": [],
@@ -36,21 +36,21 @@
       "path": "python深度学习",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1776443109731,
+      "lastAccessed": 1778047753852,
       "keyFiles": []
     },
     "数据分析": {
       "path": "数据分析",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1776443109732,
+      "lastAccessed": 1778047753853,
       "keyFiles": []
     },
     "算法练习": {
       "path": "算法练习",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1776443109732,
+      "lastAccessed": 1778047753853,
       "keyFiles": [
         "单练链表.py",
         "双链链表.py",
@@ -61,63 +61,99 @@
   },
   "hotPaths": [
     {
-      "path": "",
-      "accessCount": 4,
-      "lastAccessed": 1776443162514,
-      "type": "directory"
-    },
-    {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\requirements.txt",
-      "accessCount": 1,
-      "lastAccessed": 1776443254018,
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\trainer.py",
+      "accessCount": 3,
+      "lastAccessed": 1778048033901,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\utils.py",
-      "accessCount": 1,
-      "lastAccessed": 1776443254956,
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\main.py",
+      "accessCount": 3,
+      "lastAccessed": 1778048118749,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\download_data.py",
-      "accessCount": 1,
-      "lastAccessed": 1776443255899,
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\metrics.py",
+      "accessCount": 2,
+      "lastAccessed": 1778048027960,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.2_train_from_scratch.py",
-      "accessCount": 1,
-      "lastAccessed": 1776443365325,
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\dataset.py",
+      "accessCount": 2,
+      "lastAccessed": 1778048082081,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.3_pretrained_feature_extraction.py",
-      "accessCount": 1,
-      "lastAccessed": 1776443366239,
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\metrics.py",
+      "accessCount": 2,
+      "lastAccessed": 1778048625844,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.3_finetune.py",
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\__init__.py",
       "accessCount": 1,
-      "lastAccessed": 1776443367028,
+      "lastAccessed": 1778047904062,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.4_visualize_intermediate_activations.py",
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\config.py",
       "accessCount": 1,
-      "lastAccessed": 1776443470536,
+      "lastAccessed": 1778047904312,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.4_visualize_filters.py",
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\checkpoint.py",
       "accessCount": 1,
-      "lastAccessed": 1776443471505,
+      "lastAccessed": 1778047904574,
       "type": "file"
     },
     {
-      "path": "python深度学习\\Keras应用\\第八章-深度学习用于计算机视觉\\scripts\\5.4_grad_cam.py",
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\house-prices\\model.py",
       "accessCount": 1,
-      "lastAccessed": 1776443472367,
+      "lastAccessed": 1778047904663,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\config.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607801,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\checkpoint.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607835,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\trainer.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607864,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\main.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607880,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\model.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607904,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\dataset.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607920,
+      "type": "file"
+    },
+    {
+      "path": "python深度学习\\pytorch练习\\kuggle-test-resolved\\digit-recognizer\\__init__.py",
+      "accessCount": 1,
+      "lastAccessed": 1778048607995,
       "type": "file"
     }
   ],
