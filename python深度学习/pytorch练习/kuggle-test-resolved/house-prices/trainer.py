@@ -26,6 +26,10 @@
 #
 # ============================================================================
 
+import torch
+# ↑ PyTorch 核心库
+#   用于 torch.no_grad() 关闭梯度计算
+
 
 def train_loop(dataloader, model, loss_fn, optimizer, device):
     """训练一个 epoch：遍历全部训练数据一次，更新模型参数。
@@ -129,10 +133,6 @@ def val_loop(dataloader, model, loss_fn, device):
     Returns:
         float: 这个 epoch 的平均验证 MSE
     """
-
-    import torch
-    # ↑ 局部导入 torch（用于 torch.no_grad()）
-    #   放在函数内部而非文件顶部，是避免循环依赖的一种做法
 
     model.eval()
     # ↑ 切换到评估模式

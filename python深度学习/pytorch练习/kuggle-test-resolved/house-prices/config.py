@@ -45,7 +45,7 @@ SEED = 42
 #   42 是经典选择（《银河系漫游指南》里的"生命、宇宙以及一切的答案"）
 #   影响范围：权重初始化、数据打乱顺序、Dropout、数据集划分等
 
-DATA_DIR = "data/house-prices-advanced-regression-techniques"
+DATA_DIR = "../data/house-prices-advanced-regression-techniques"
 # ↑ 数据文件夹路径（相对于项目根目录）
 
 TRAIN_PATH = os.path.join(DATA_DIR, "train.csv")

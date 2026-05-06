@@ -1,5 +1,5 @@
 # ============================================================================
-# house_prices 包
+# house-prices 包
 # ============================================================================
 #
 # Kaggle House Prices Advanced Regression Techniques 竞赛的模块化实现
@@ -16,7 +16,7 @@
 #
 # 使用方式：
 #   在项目根目录下运行：
-#   python -m house_prices.main
+#   python -m house-prices.main
 #
 # 依赖库：
 #   torch, numpy, pandas, scikit-learn
@@ -34,6 +34,6 @@
 #   包可以包含多个模块，实现代码的分层组织
 #
 # 导入示例：
-#   from house_prices.config import SEED           → 从 config 模块导入 SEED 常量
-#   from house_prices.model import NeuralNetwork   → 从 model 模块导入 NeuralNetwork 类
-#   from house_prices.trainer import train_loop    → 从 trainer 模块导入 train_loop 函数
+#   from house-prices.config import SEED           → 从 config 模块导入 SEED 常量
+#   from house-prices.model import NeuralNetwork   → 从 model 模块导入 NeuralNetwork 类
+#   from house-prices.trainer import train_loop    → 从 trainer 模块导入 train_loop 函数
